@@ -5,6 +5,6 @@ Your privacy matters to us. We value privacy and are open about our rules. We do
 
 Data Disclosure: Your data is important to us. We do not share it with third parties except for the services listed below:-
 
-Online Database: We use MongoDB for storing FLINGO data, ensuring secure and reliable data management for our users. For more information, please refer to MongoDB's Privacy Policy.
+Online Database: We use MongoDB for storing Uniserval data, ensuring secure and reliable data management for our users. For more information, please refer to MongoDB's Privacy Policy.
 
 Data Deletion: How to Make It Happen If you want your user data deleted, you can reach out to us in our support Discord server and messaging a developer with your Discord User ID. Keep in mind, deleting certain data might make some or all features of the Service unavailable. And if you ask to delete premium information, your servers might get deactivated without a refund. You can request data deletion once every 30 days. Contact Us for Support.
